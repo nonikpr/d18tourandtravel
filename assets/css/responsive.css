@@ -1,0 +1,54 @@
+@media (max-width: 1000px) {
+  .item {
+  width: 50%;
+  }
+
+  .promo {
+  width: 50%;
+  }
+
+  .promo-icon img {
+  width: 100%;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  footer p {
+    text-align: center;
+  }
+
+}
+
+@media (max-width: 670px) {
+  
+  
+  .main-title h1 {
+  font-size: 20px;
+  }
+
+  .main-title h3 {
+  font-size: 16px;
+  }
+
+  .main-title {
+    padding-top: 20px;
+  }
+
+  .main-form input {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+
+  .item {
+  width: 100%;
+  }
+
+  .promo {
+  width: 100%;
+  }
+
+  
+
+}
